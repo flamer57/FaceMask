@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Camera251</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="add_mask">Add Mask</string>
+    <string name="show_preview">Show Preview</string>
+
+</resources>
